@@ -2,7 +2,7 @@
 
 Exploração interativa da anatomia humana em 3D, **do crânio aos pés**. Ao rolar a página, o esqueleto é apresentado osso por osso: o crânio se desmonta nos seus 22 ossos, as vértebras se separam do atlas ao sacro, as costelas se abrem e os membros se desmontam por etapas, até a reconstrução do esqueleto completo, com os **206 ossos**.
 
-**[Ver online]((https://lucaksc777.github.io/Cranium/cranium.html))**
+**[Ver online](https://lucaksc777.github.io/Cranium/cranium.html)**
 
 ## Conteúdo
 
@@ -35,7 +35,7 @@ Exploração interativa da anatomia humana em 3D, **do crânio aos pés**. Ao ro
 
 ## Como usar
 
-É um único arquivo, sem instalação: abra `index.html` no navegador (Chrome, Edge, Firefox ou Safari atualizados).
+É um único arquivo, sem instalação: abra `cranium.html` no navegador (Chrome, Edge, Firefox ou Safari atualizados).
 
 | Computador | Celular |
 | --- | --- |
